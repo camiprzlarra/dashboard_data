@@ -54,7 +54,7 @@ EDU_MAP_7_ORDER = [
     "Superior completa"
 ]
 
-BASE_DIR = r"c:\Users\Camila\Desktop\Universidad\Semestre 9\Data Visualization\ENTREGA 3"
+BASE_DIR = "."
 
 # 2. Inyección de CSS Personalizado (Aesthetic Upgrade)
 def inject_premium_css():
